@@ -4,12 +4,6 @@
 
 The challenge TodoListReactNative is a challange to improve the techniques in ReactNative.
 
-# Layout
-
-![Web 1](https://github.com/darlanbbs/imgs/blob/main/todoNative/image2.png) 
-![Web 1](https://github.com/darlanbbs/imgs/blob/main/todoNative/image1.png) 
-
-
 # Installation
 
 - Clone the repo in your terminal by clicking the green clone or download button at the top right and copying the url
